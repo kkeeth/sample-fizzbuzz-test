@@ -2,7 +2,8 @@
 
 ## Usage
 
-```
+```shell
+
 # clone this repo
 $ git clone git@github.com:kkeeth/sample-fizzbuzz-test.git
 
@@ -19,5 +20,7 @@ $ npm run test
 or
 
 $ yarn test
-```
 
+# execute fizzbuzz
+$ node fizzbuzz.js
+```
