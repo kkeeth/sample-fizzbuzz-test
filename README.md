@@ -2,6 +2,10 @@
 
 `Node.js` and `npm` are required, so please install them beforehand.
 
+To learn more about Jest, please visit its official page.
+
+https://jestjs.io/
+
 ## Usage
 
 ```shell
