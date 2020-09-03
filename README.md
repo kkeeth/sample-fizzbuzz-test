@@ -1,5 +1,7 @@
 # sample-fizzbuzz-test
 
+`Node.js` and `npm` are required, so please install them beforehand.
+
 ## Usage
 
 ```shell
